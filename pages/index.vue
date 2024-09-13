@@ -3,8 +3,9 @@
     to="feuilleDePresence">
         Feuille de présence
     </v-btn>
-    <v-btn class="ma-2">
-        Convocation
+    <v-btn class="ma-2"
+    to="convocations">
+        Convocations
     </v-btn>
     <v-btn class="ma-2">
         Process verbal
